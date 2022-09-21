@@ -1,0 +1,49 @@
+NPL Site Narrative for Tooele Army Depot
+(North Area)
+ 
+TOOELE ARMY DEPOT (NORTH AREA)
+Tooele, Utah
+ 
+ 
+Conditions at proposal (October 15, 1984) : The Tooele Army Depot (TEAD) is in Tooele, Tooele County,
+Utah, 35 miles southwest of Salt Lake City. It consists of two separate areas, the North Area and the South
+Area. The North Area covers about 25,000 acres in Tooele Valley south and west of Tooele.
+ 
+Since 1943, TEAD has had a fourfold mission: store ammunition, demilitarize ammunition, rebuild military
+equipment, and store military equipment. In fulfilling its mission, TEAD decommissions munitions by cutting
+the casings and removing and recycling the explosive material. The casings are then rinsed with water to
+remove residual explosives. Between 1948 and 1965, rinse waters were discharged into the "TNT Washout
+Area," which covers less than 1 acre in the North Area. The Army has detected trinitrotoluene (TNT) and
+cyclomethylenetriamine (RDX), an experimental explosive, in soil near the TNT Washout Area, threatening
+ground water. About 2,500 people depend on wells within 3 miles of the site as a source of drinking water.
+ 
+TEAD is participating in the Installation Restoration Program, established in 1978. Under this program,
+the Department of Defense seeks to identify, investigate, and clean up contamination from hazardous
+materials. The Army has completed Phase I (records search).
+ 
+Status (August 30, 1990) : Activities at Tooele are divided into two "discrete field activities or operable
+units" (OUs). OU#1 involves ground water contaminated with organic solvents and metals resulting from an
+unlined industrial waste lagoon. The Army has closed the lagoon; the Utah Department of Health approved
+the closure on November 1, 1989, the deadline set in a Consent Decree entered into earlier by the Army,
+Utah, and the U.S. Department of Justice. A ground water assessment required by the decree shows that a
+plume of ground water contaminated with trichloroethylene (TCE) and trichloroethane (TCA) has migrated
+downgradient approximately 2 miles. The leading edge of the plume lies several hundred yards beyond
+the TEAD boundary and may be migrating several hundred feet per year. TCE concentrations vary from
+approximately 250 parts per billion (ppb) beneath the lagoon ditches to 8 ppb at the TEAD boundary. Of
+approximately 37 billion gallons of contaminated ground water, approximately 16 billion gallons will require
+cleanup. The proposed cleanup calls for installing an extraction wellfield near the northern boundary of
+TEAD to intercept the leading edge of the contaminant plume. Ground water pumped from the wellfield will
+be piped to a water treatment plant where the contaminants will be removed by air stripping techniques.
+Treated effluent will be piped to an injection wellfield upgradient of the contaminant plume.
+ 
+OU#2 involves a landfill and facilities for ordnance demilitarization that released TCE and TNT-related
+contaminants. The Army is attempting to define the extent of contamination in OU#2.
+ 
+EPA, the State, and the Army plan to negotiate an Interagency Agreement under CERCLA Section 120
+covering future activities at TEAD.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

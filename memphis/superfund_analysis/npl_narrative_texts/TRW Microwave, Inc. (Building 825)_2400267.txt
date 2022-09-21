@@ -1,0 +1,54 @@
+NPL Site Narrative for TRW Microwave,
+Inc. (Building 825)
+ 
+TRW MICROWAVE, INC. (BUILDING 825)
+Sunnyvale, California
+ 
+ 
+Conditions at proposal (June 24, 1988) : The TRW Microwave, Inc. (Building 825) Site is located at
+825 Stewart Drive, Sunnyvale, Santa Clara County, California. Three other sites are nearby: Advanced
+Micro Devices, Inc., placed on the NPL in June 1986; Signetics, Inc., proposed in October 1984 (and
+later dropped); and Advanced Micro Devices, Inc. (Building 915), also being proposed at this time. The
+sites are owned and operated by semiconductor/microprocessor manufacturers and have contributed to a
+commingled plume of ground water contaminated with organic solvents that has migrated off the sites to
+the north.
+ 
+Contamination at Building 825 was first identified in April 1983 when a TRW contractor found up to 41,000
+parts per billion (ppb) of trichloroethylene (TCE) in on-site wells. In May 1983, the California Regional
+Water Quality Control Board (CRWQCB) found that ground water beneath the building was contaminated
+with dichlorobenzene, tetrachloroethylene, TCE, acetone, N-butyl acetate, and xylene. Upgradient wells
+on the south side of the property showed only low levels of contamination, indicating that TRW is a point
+source of contamination.
+ 
+In September 1983, TRW excavated soil at the site, removed an underground tank, and transported
+the materials to a hazardous waste facility regulated under Subtitle C of the Resource Conservation
+and Recovery Act. However, CRWQCB found that these measures did not correct the ground water
+contamination problem.
+ 
+Contaminants from a leaking 750-gallon solvent storage tank at Building 825 have the potential to migrate
+to deeper drinking water aquifers. Municipal wells for Santa Clara and Mountain View tap a deep aquifer
+between 250 and 750 feet and serve an estimated 300,000 people. Imported surface drinking water is not
+considered an available alternative due to the size of the potentially affected population.
+ 
+On June 21, 1984, CRWQCB issued a Cleanup and Abatement Order under the California Water Code
+requiring TRW Microwave, Advanced Micro, and Signetics to develop a joint plan to prevent further
+migration of contaminants.
+ 
+Since October 1985, under CRWQCB supervision, TRW has been operating a system to pump out
+contaminated ground water on its site, treat it on-site in an air stripper, and discharge the treated water to
+Calabasas Creek and South San Francisco Bay.
+ 
+Status (February 21, 1990) : TRW Microwave, Signetics, and Advanced Micro Devices, Inc. (AMD) have
+formed a group known as "The Companies" to clean up the contaminated commingled plume. They are
+operating a system to pump and treat the plume with an air stripper and carbon adsorption unit at AMD's
+Building 915 site.
+ 
+The Companies are conducting a remedial investigation/feasibility study (RI/FI) to determine the type and
+extent of contamination and identify alternatives for remedial action at the AMD, Signetics, and TRW sites.
+AMD is conducting a separate RI/FS for its Building 915 site.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

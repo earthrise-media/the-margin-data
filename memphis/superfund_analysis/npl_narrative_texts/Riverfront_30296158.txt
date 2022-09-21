@@ -1,0 +1,57 @@
+NPL Site Narrative for Riverfront
+ 
+RIVERFRONT
+New Haven, Missouri
+ 
+ 
+Conditions at Proposal (July 27, 2000) : The Riverfront site encompasses a plume of tetrachloroethylene
+(PCE)-contaminated ground water underlying the town of New Haven, Missouri. The site is being proposed
+to the NPL because of the presence of this contaminant plume, which has affected the town's municipal
+water supply. PCE has been detected in municipal wells at levels above health-based benchmarks (that
+is, at levels which the scientific community has determined may pose health risks). The municipal water
+supply is the only source of drinking water for New Haven and serves the town's entire population of more
+than 1,700.
+ 
+PCE has been detected in New Haven Well No. 1 at concentrations ranging from 1.8 micrograms per liter
+(µg/L) to 21 µg/L. PCE has also been detected in New Haven Well No. 2. PCE concentrations in this well
+have increased steadily over time and have been as high as 140 µg/L. EPA has established a maximum
+contaminant level (MCL) for PCE of 5 µg/L. This is the highest permissible level allowed by EPA in drinking
+water.
+ 
+In May 1993, MDNR notified the municipality of New Haven that it was operating in violation of state and
+federal drinking water regulations because concentrations of PCE in New Haven Well No. 2 continued to
+exceed the MCL. New Haven Well No. 2 was subsequently taken out of service. New Haven Well No. 1 is
+currently used as a standby well for emergency situations.
+ 
+PCE has never been detected in New Haven's other municipal wells. New Haven Well No. 3, which
+has been in operation since before the PCE plume was first detected, is located approximately 1 mile
+southwest of New Haven Wells No. 1 and No. 2. In September 1994, a new municipal well, New Haven
+Well No. 4, was installed. New Haven Well No. 4 is located approximately 0.4 miles north-northwest of Well
+No. 3 and approximately 0.8 miles southwest of New Haven Wells No. 1 and No. 2. Sampling by various
+agencies has shown no detectable concentrations of PCE in New Haven Wells No. 3 or No. 4.
+ 
+Based on information gathered during the site investigations to date, several potential contributors to the
+PCE contamination have been identified. The use of PCE has been documented at two potential facilities
+in the area and soil samples collected from these facilities indicate the presence of PCE. However, due to
+the presence of other potential contributors and complex hydrogeology in the area, the PCE detected in the
+municipal wells cannot be definitely attributed to either of these facilities.
+ 
+Status (December 2000) : Field activities during the spring and summer of 2000 included the installation
+and sampling of bedrock monitoring wells (5 total) near two suspected facilities, packer testing in the
+contaminated city well No. 2, and reconnaissance sampling of creeks and springs. Sample results
+from bedrock monitoring wells indicate PCE contamination as high as 290 µg/L in the bedrock south of
+the contaminated city well No. 2 at depths of 465 ft. Bedrock monitoring wells north of city well No. 2
+contained PCE at much lower concentrations, 1.4 to 22.8 µg/L. Reconnaissance sampling indicate PCE
+contamination in two small creeks in the New Haven area and the discovery of buried and partially buried
+industrial wastes. The U.S. EPA also conducted an emergency removal action to replace a contaminated
+plastic water line and remove PCE contaminated soils adjacent to one former facility known to have used
+PCE. The plastic water line only serviced a hydrant at the city dog pound and a nearby public restroom.
+Concentrations of PCE in a restroom sink serviced by the plastic line were as high as 2,210 µg/L. Samples
+from nearby residential and commercial taps and fire hydrants did not contain PCE indicating that the
+contamination was local and restricted to the plastic service line.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

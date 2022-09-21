@@ -1,0 +1,58 @@
+NPL Site Narrative for Solitron Microwave
+ 
+SOLITRON MICROWAVE
+Port Salerno, Florida
+ 
+ 
+Conditions at Proposal (March 1998) : Solitron Microwave is located approximately 0.5 mile east of U.S.
+Highway 1 in Port Salerno, Martin County, Florida. The facility manufactured miniature-size frequency
+connectors and cables as well as solid state resistor networks associated with electroplating. Facility
+operations began in 1963 and ended on January 24, 1992, when Solitron Devices (Solitron), the owner of
+the facility, went bankrupt.
+ 
+The facility covers approximately 16 acres and consists of a main building, a surface impoundment (pond)
+and hazardous waste storage areas. There was a plating area, an industrial wastewater treatment plant
+(IWTP) compound and a hazardous waste storage area within the main building. The pond was used
+to hold spent rinse water and plating waste that had been through the facility's IWTP. The wastewater
+contained concentrations of spent solvents that were reportedly below 10 to 100 micrograms/liter (µg/l).
+Solvents were reportedly discharged to the ground in a drum storage area located in the IWTP compound.
+Spent solvents were also allowed to discharge from a pipe that drained a bermed drum storage area.
+The location of this bermed drum storage area was not indicated in available file material. Chemicals
+used in facility operations included tetrachloroethene (PCE), trichloroethene (TCE), chlorine, acetone,
+trichloroethane, sulfuric acid, toluene, xylene and several unspecified solvents. Hazardous wastes stored
+at the facility consisted of F001 wastes that included PCE, TCE and trichloroethane, and F003 wastes that
+included acetone, total xylenes and methyl isobutyl ketone.
+ 
+In February 1985, EPA conducted a Site Screening Investigation at the facility. Acetone, methylene
+chloride, toluene and 1,1,1-trichloroethane were detected in a surface water sample collected from the
+pond. Acetone was also detected in a sediment sample collected from the pond. Total xylenes and methyl
+isobutyl ketone were detected at elevated levels in a soil sample collected from an area that collects runoff
+water approximately 150 feet south of the main building.
+ 
+During a Contamination Assessment (CA) conducted by Solitron from December 1988 to February
+1989, total xylenes and methylene chloride were detected in soil boring samples collected in the IWTP
+compound. Available file material did not indicate the background sample analytical data. Elevated
+levels of PCE, TCE, trichloroethane, total xylenes, acetone, vinyl chloride, methylene chloride and 1,1-
+dichloroethene were detected in monitoring wells sampled during the 1988-1989 CA. Vinyl chloride and
+TCE were detected at Level I concentrations in ground water samples collected from three private drinking
+water wells in April 1991 by the Martin County Public Health Unit. Vinyl chloride is a degradation product of
+PCE and TCE, which are associated with facility processes.
+ 
+In September 1990, Solitron excavated approximately 264 cubic yards of sediment from the pond and
+piled the sediment at the facility. Available file material does not indicate if the sediment was removed from
+the facility. From approximately February 1992 until at least April 1993, Solitron provided bottled water to
+nearby residents because four wells had become contaminated.
+ 
+Three municipal systems operate wells located within a 4-mile radius of the pond. These wells draw from
+the surficial aquifer. The nearest municipal well used for drinking water purposes is located approximately
+0.75 mile south of the pond. Currently there are approximately 31,704 ground water users within a 4-mile
+radius of the facility.
+ 
+Status (July 1998) : EPA has begun a remedial investigation/feasibility study. The results of the first phase
+of sampling was completed in 1998 indicated continued presence of VOCs in ground water.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

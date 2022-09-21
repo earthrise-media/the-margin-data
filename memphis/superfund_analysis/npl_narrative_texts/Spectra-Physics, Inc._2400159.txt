@@ -1,0 +1,49 @@
+NPL Site Narrative for Spectra-Physics,
+Inc.
+ 
+SPECTRA-PHYSICS, INC.
+Mountain View, California
+ 
+ 
+Conditions at proposal (June 24, 1988) : Spectra-Physics, Inc. (SP) has manufactured electronic
+equipment and gas lasers on Terra Bella Boulevard and Middlefield Roads in Mountain View, Santa Clara
+County, California, since 1961. The 11.5-acre site consists of nine buildings in a light industrial complex.
+SP uses a variety of cleansers, degreasers, and lubricants in its manufacturing processes, including
+isopropyl alcohol, acetone, methyl alcohol, trichloroethylene (TCE), Freon, 1,1,1-trichloroethane (TCA),
+and Solvasol Solvent 360. In an inspection conducted in 1981, the California Regional Water Quality
+Control Board (CRWQCB) found that areas where hazardous wastes were stored had no dikes or systems
+to collect leachate; rusty barrels were also found on-site.
+ 
+Ground water investigations began at the SP facility in September 1984 after tests at Teledyne
+Semiconductor (adjacent and downgradient of SP) indicated possible upgradient sources of contamination.
+(The Teledyne site was placed on the NPL in July 1987.) Soil and ground water collected at SP contained
+TCE, TCA, and 1,2-dichloroethylene. SP's plume of contaminated ground water has merged with
+Teledyne's and migrated off-site. More than 200 private drinking water wells had been drilled into the 1-
+square-mile plume. Most wells have been closed; 47 were found contaminated above State Action Levels.
+The owners now obtain water from municipal water supplies. An estimated 189,000 people obtain drinking
+water from public and private wells within 3 miles of the site.
+ 
+Teledyne is operating two extraction wells on-site -- one in the shallow zone and one in the intermediate
+zone. The wells pump the water to the surface and discharge it to the sanitary sewer; the ground water
+is not treated before discharge. SP will evaluate the effectiveness of this system in preventing its on-site
+plume from migrating off-site. Both companies are jointly designing an off-site extraction system.
+ 
+San Francisco Bay (2.5 miles downstream of the site) is used for recreational activities. Permanente Creek
+is tidally influenced within 1 mile of the site. Several species of birds designated as endangered species by
+the U.S. Fish and Wildlife Service are found within the area of tidal influence.
+ 
+Status (February 11, 1991) : In February 1990, SP installed a vapor extraction system to reduce
+concentrations of contaminants in soil.
+ 
+Under an order issued by CRWQCB, SP conducted a remedial investigation/feasibility study (RI/FS) to
+determine the type and extent of contamination at the site and identify alternatives for remedial action.
+The RI/FS was completed in December 1990. In February 1991, CRWQCB will adopt a final cleanup and
+abatement order requiring SP to implement the best remedial alternative evaluated in the RI/FS. This
+alternative will include expanding the existing soil vapor extraction system and the ground water extraction
+system. In April 1991, EPA will complete a Record of Decision describing the selected remedy.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

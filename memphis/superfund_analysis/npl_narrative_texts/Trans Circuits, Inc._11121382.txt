@@ -1,0 +1,62 @@
+NPL Site Narrative for Trans Circuits, Inc.
+ 
+TRANS CIRCUITS, INC.
+Lake Park, Florida
+ 
+ 
+Conditions at Proposal (October 22, 1999) : The Trans Circuits, Inc., property is located at 210 Newman
+Way in Lake Park, Palm Beach County, Florida. The 1.2-acre property is bordered by Brant Road to the
+east, Newman Road to the south, and another industrial property, the Action Bolt property, to the west. The
+Trans Circuits property includes a building in its center and a buried, former evaporation/percolation pond
+north of the building.
+ 
+Trans Circuits manufactured electronic circuit boards from the late 1970s until approximately June 1985,
+when its facility was closed and its treatment systems were dismantled. Operations included stripping,
+etching, electroless and electrolytic plating, and nickel and gold plating. Various solvents, acid-based
+stripping solutions, and plating solutions containing lead, tin, copper, nickel, fluoride, and cyanide were
+used in manufacturing processes at the Trans Circuits facility. The evaporation/percolation pond was
+originally constructed in 1981 with a synthetic liner to collect and allow evaporation of electroplating rinse
+water. In September 1982, an industrial wastewater treatment system was installed, the liner was partially
+removed from the pond, and the remaining liner was punctured to allow percolation of treated wastewater
+to ground water.
+ 
+In September 1982, the facility was served with a notice of violation by the Florida Department of
+Environmental Regulation (FDER) for operating without a permit, failing to submit monitoring reports to
+FDER, and allowing the pond to overflow. In November 1983, following removal and puncturing of the
+liner, the Palm Beach County Environmental Control Board adopted an interim order finding that the Trans
+Circuits facility was discharging its effluent to ground water without a valid permit. During its operation,
+lead, copper, fluoride, tetrachloroethylene, trichloroethylene, and 1,1,1-trichloroethane were detected in the
+plant's discharge to the evaporation/percolation pond.
+ 
+In 1981, EPA sampled the City of Riviera Beach public well field for volatile organic compounds as part of
+a study of water supplies in South Florida. Results from this and subsequent sampling events indicated
+the presence of chlorinated hydrocarbons in 7 of the 18 wells comprising the well field. These wells and
+others were eventually taken out of service. A subsequent investigation of the well field by FDER in 1985
+tentatively traced the contamination in one of the wells to the Trans Circuits facility. This well was closed in
+1984.
+ 
+An expanded site inspection (ESI) was completed by EPA Region 4 at the facility in January 1998. As
+part of the ESI, EPA Region 4 collected 10 surface soil, 35 subsurface soil, and 35 ground water samples.
+Soil samples contained elevated levels of several inorganic contaminants, including lead. Subsurface
+soil samples collected from the former evaporation/percolation pond contained elevated levels of lead.
+Groundwater samples contained elevated concentrations of lead and the chlorinated hydrocarbons,
+1,2-dichloroethylene and trichloroethylene. Lead and trichloroethylene had been detected in the plant's
+discharge to the evaporation/percolation pond, and 1,2-dichloroethylene, though not detected in the
+effluent, is a common degradation product of tetrachloroethylene and trichloroethylene, both of which were
+detected in the effluent.
+ 
+The aquifer contaminated by hazardous substances attributable to former Trans Circuits operations
+serves as the sole source of water for the Riviera Beach and two other public water supply systems in the
+vicinity of the site. Riviera Beach operates 25 public water supply wells, Magnolia Park operates 4 wells,
+and Seacoast Utilities operates 20 wells within 4 miles of the Trans Circuits site. These 49 wells provide
+drinking water for approximately 67,330 people. Other than the Riviera Beach well that was closed in 1984,
+no other public supply wells are believed to have been affected by contamination from Trans Circuits to
+date.
+ 
+Status (February 2000) : EPA is considering various alternatives for this site.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

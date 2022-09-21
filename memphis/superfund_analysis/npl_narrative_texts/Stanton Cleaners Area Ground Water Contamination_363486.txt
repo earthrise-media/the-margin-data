@@ -1,0 +1,67 @@
+NPL Site Narrative for Stanton Cleaners
+Area Ground Water Contamination
+ 
+STANTON CLEANERS AREA GROUND WATER CONTAMINATION
+Great Neck, New York
+ 
+ 
+Conditions at Proposal (January 1999) : The Stanton Cleaners Area Ground Water Contamination site
+is located in the area of Stanton Cleaners, which is an active dry cleaning facility located at 110 Cutter Mill
+Road in a commercial area of Great Neck, Nassau County, New York. The facility is bordered to the west
+by Cutter Mill Road, to the north and east by indoor tennis courts, and to the south by a gasoline station.
+ 
+On April 6, 1998, the U.S. Environmental Protection Agency (EPA) received a written request from the
+New York State Department of Environmental Conservation (NYSDEC), requesting that an emergency
+response action be conducted at the site. On July 23, 1998, an EPA Action Memorandum was signed,
+authorizing Removal Action activities to be conducted at the site. Removal Action activities proposed in
+this memorandum included the implementation of a Soil Vapor Extraction (SVE) system for reducing the
+volatile organic compounds (VOCs) entrapped within the soils at the site.
+ 
+During a June 1983 Nassau County Department of Health inspection of the Stanton Cleaners facility,
+debris and empty drums were observed in the rear yard of the site. In addition, a pipe was observed to
+be protruding from the rear side of the building. This pipe was connected to the dry cleaning fluid-water
+separator that discharged onto the ground in the rear yard sloping away from the building. Background
+information indicates that this discharge was discontinued by July 1983 and was eventually routed
+to the sewer. Surface and subsurface soil samples, collected by NCDH, indicated the presence of
+tetrachloroethylene (PCE), which is used as a dry cleaning solvent.
+ 
+Due to these elevated levels of PCE, NCDH ordered Stanton Cleaners to conduct a subsurface soil and
+groundwater investigation at the site. The site was referred to NYSDEC in January 1984. As a result of
+the subsequent investigations conducted at the site, a plume of contaminated ground water, consisting
+primarily of PCE, had been documented to be migrating from the site. PCE was detected in ground water
+samples at concentrations exceeding the State and Federal maximum contaminant level (MCL) of 5
+micrograms per liter (?g/L).
+ 
+From 1996 to 1998, NYSDEC conducted a remedial investigation (RI) at the Stanton Cleaners facility,
+which included a soil vapor survey, soil sampling, and ground water sampling. The results of soil sampling
+conducted in October 1997 showed PCE concentrations up to 6,200,000 micrograms per kilogram (?g/kg).
+Analytical results of ground water samples collected from on- and off-site monitoring wells in January 1998
+indicated PCE concentrations at concentrations up to 17,000 ?g/L downgradient of the Stanton Cleaners
+facility. In addition, nearby downgradient public water supply wells have been impacted by PCE above the
+MCL; water from this system currently undergoes treatment before distribution.
+ 
+The Stanton Cleaners Area Ground Water Contamination site was evaluated as having one waste source:
+PCE-contaminated soil resulting from the dry cleaning fluid-water separator discharge from Stanton
+Cleaners. Although the Stanton Cleaners facility contributes to the ground water contamination in the
+area, monitoring wells in areas not expected to be impacted by the Stanton facility exhibited elevated
+concentrations of PCE, indicating that other sources may be contributing to this area of contaminated
+ground water.
+ 
+An observed release of PCE to ground water is documented by the chemical analyses of ground water
+samples collected from monitoring wells during the NYSDEC RI in January 1998. Drinking water, within
+the site's 4-mile radius, is derived from public supply wells screened in the Upper Glacial, Magothy, and
+Lloyd aquifers. The Upper Glacial and Magothy aquifers are interconnected and evaluated as the aquifer
+of concern. The nearest well drawing from the aquifer of concern is located approximately 1,000 feet south
+and downgradient of the site. Potable wells within 4 miles of the site, and drawing from the aquifer of
+concern, serve approximately 96,646 people.
+ 
+Status (May 1999) : Under EPA's Removal authority, a soil vapor extraction (SVE) system was installed
+and is currently operational. The SVE system actively reduces PCE concentrations in the affected soils.
+The SVE system has been designed to mitigate the associated impact of PCE releases to indoor air and
+ground water.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

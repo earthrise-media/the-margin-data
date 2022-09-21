@@ -1,0 +1,73 @@
+NPL Site Narrative for Lehigh Valley
+Railroad
+ 
+LEHIGH VALLEY RAILROAD
+Le Roy, New York
+ 
+ 
+Conditions at Proposal (July 28, 1998) : The Lehigh Valley Railroad site in LeRoy, Genesee County,
+New York is the location of a chemical spill that resulted from a 1970 train derailment. The site consists of
+portions of Gulf Road, the former railroad bed, and the properties adjacent to the crossing. The site is in a
+rural setting, and the surrounding area is used for residential, recreational, and commercial purposes. An
+intermittent stream, Mud Creek, is located approximately 500 feet to the southeast.
+ 
+The derailment occurred at approximately 3:30 a.m. on Sunday, December 6, 1970. Approximately 1
+ton of cyanide crystals spilled onto the ground. The cleanup included the removal of the crystals and the
+overturned car. After the crystals were removed, neutralizers were spread on the ground to counteract the
+effects of any remaining cyanide. Trichloroethylene (TCE) was also released from two ruptured tank cars.
+A Genesee County Health Department (GCHD) engineer who was among the first people to respond to the
+accident and a claims agent for Lehigh Valley Railroad each reported in February 1971 that approximately
+35,000 gallons of TCE had been spilled. A geologist hired by Lehigh Valley Railroad to investigate pollution
+resulting from the spill reported in March 1971 that approximately 30,000 gallons of TCE were spilled. TCE
+odors were noticed eight days after the derailment in the basement of the Knickerbocker Hotel, which was
+located 200 feet north of the crossing. Lehigh Valley Railroad tried to alleviate the odors by flushing the
+chemical out of the surrounding fill sometime between March and June 1971. The response action involved
+digging trenches near the crossing, pumping approximately 1 million gallons of water from a nearby quarry
+into the trenches, and allowing the water to percolate into the ground. The owners of two private wells
+located along Gulf Road east of the site noticed TCE in their water supplies about a week after the spill.
+Approximately one month later, TCE was noticed in two other wells located more than 0.5 mile southeast
+of the site. The TCE concentrations for samples collected from the affected wells in 1970 and 1971 ranged
+from 4 parts per million (ppm) to 171 ppm. By November 1971, seven wells had become contaminated.
+Lehigh Valley Railroad provided drinking water to residents with contaminated wells beginning in June
+1971, and later provided the installation and maintenance of charcoal filtering systems at the affected
+wells.
+ 
+In September 1989, TCE was detected during routine sampling of the Genesee County Campground
+well located more than 1.5 miles east of the site. Further sampling of private wells by New York State
+Department of Health (NYSDOH), U.S. Environmental Protection Agency (EPA), and New York State
+Department of Environmental Conservation (NYSDEC) between 1990 and 1994 detected TCE in
+approximately 50 wells located east or southeast of the site. In December 1991, EPA began installing
+granular activated carbon (GAC) water treatment systems at 37 locations where TCE exceeded 5
+micrograms per liter (&micro;g/L), the Maximum Contaminant Level (MCL). In October 1994, the NYSDEC
+installed an additional GAC system at a residence exceeding the MCL.
+ 
+NYSDEC completed a Remedial Investigation and Feasibility Study (RI/FS) in 1997 that included a soil
+gas survey, soil sampling, and a hydrogeologic investigation. The results of soil sampling conducted in
+September 1992, December 1992, and October 1994 showed TCE concentrations ranging from 46 to
+570,000 micrograms per kilogram (?g/kg); total 1,2-DCE concentrations ranging from 40 to 5,200 ?g/kg;
+and cyanide concentrations ranging from 1.7 to 64.8 milligrams per kilogram (mg/kg) in soils collected at
+the site. The hydrogeologic investigation showed that there is a source of TCE contamination remaining
+in the unsaturated soil and bedrock at the spill site, and a ground water plume extending almost 4 miles
+east and southeast of the site. NYSDEC issued a Record of Decision (ROD) for the site in March 1997.
+NYSDEC selected ex-situ soil vapor extraction and bedrock vapor extraction as source control measures
+and a water-line extension to provide a safe potable water supply to all affected residents and businesses.
+ 
+An observed release to ground water is documented by the chemical analysis of ground water samples
+collected from private drinking water wells in 1993 and 1994. Level I contamination (with a high of 3,100
+ppb) is documented for 15 wells. Level II contamination is also documented for one well. The total
+population served by private ground water wells within 4 miles of the site is approximately 2,515. The
+bedrock aquifer is the only significant source of ground water for private wells in the site vicinity. The
+bedrock aquifer is not used for public supplies within 4 miles of the site. The nearest public supply wells are
+located in the Village of Caledonia more than 4 miles east of the site.
+ 
+Status (January 1999) : The remedial design for waterline extension is scheduled for completion in
+April 1999. Construction of the waterline should begin in July 1999 with completion expected toward the
+end of 2000. The bedrock vapor extraction system is in the pre-design phase. Pilot studies have been
+completed and the remedial design is scheduled to start in August 1999. The remedy for the surface soils
+is excavation and treatment. The remedial design is scheduled to start in August 1999.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

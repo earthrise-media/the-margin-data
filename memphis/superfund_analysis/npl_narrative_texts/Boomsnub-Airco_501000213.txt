@@ -1,0 +1,61 @@
+NPL Site Narrative for Boomsnub/Airco
+ 
+BOOMSNUB/AIRCO
+Vancouver, Washington
+ 
+ 
+Conditions at Proposal (January 18, 1994) : The Boomsnub/Airco site is located in a mixed light
+industrial/residential area of Vancouver, Washington, covering approximately 14 acres. The two
+facilities have been aggregated into one site because contamination from both facilities has resulted in
+a commingled ground water plume consisting of volatile organic compounds (VOCs), and chromium.
+Chromium contamination of the soils at the Boomsnub site resulted from improper waste handling and
+disposal practices from metal plating operations. In December 1989, chromium was mobilized by a water
+line break that released 300,000 gallons of water. In January 1990, chromium levels in one well increased
+from 0.2 parts per million (ppm) to 750 ppm. In April 1990, Boomsnub began pumping and treating ground
+water from that well, installed additional monitoring wells, and tested neighboring domestic wells. The
+company could not afford the needed remedial activities and applied for financial relief in August 1990.
+Because of the severity of the problem, the Washington Department of Ecology (WDOE) began paying the
+majority of cleanup costs after this date.
+ 
+Airco Gases (Airco) is an active gas manufacturing plant that has been in operation at this location since
+1964. Airco manufactures compressed gas products, including liquid nitrogen, liquid oxygen, and liquid
+argon. Airco also stores and distributes other specialty gases. In 1991, investigation of the Boomsnub site
+showed the presence of VOCs in the ground water. The ground water monitoring wells in which elevated
+levels of VOCs were detected are located hydraulically downgradient from Airco. The VOCs detected in the
+ground water do not appear to be associated with Boomsnub's operations.
+ 
+The plume is in an unconfined alluvial aquifer that overlies the confined Troutdale aquifer which is used
+as a regional drinking water source. The county wells at risk from the chromium and VOC plume provide
+drinking water to more than 150,000 people. Chromium levels in the alluvial aquifer have been as high as
+2,000 ppm in onsite wells and as high as 85 ppm one half mile downgradient from the site. VOC levels are
+in the ppm range in onsite and downgradient wells. To date, the chromium plume has migrated over 3,000
+feet. A clay and silt aquitard separates the two site aquifers; however, there are known breaches in the
+aquitard in the region.
+ 
+WDOE's emergency interim action at Boomsnub consists of pumping and treating the ground water to
+minimize offsite chromium migration while concurrently defining the extent of contamination. The interim
+action has included installing over 40 monitoring wells screened at different depths to define the plume,
+a reverse-osmosis and ion-exchange treatment system for chromium removal, a ground water extraction
+network, a pressurized sewer line for discharge of treated water, and an air stripper and granular activated
+carbon treatment system for removal of VOCs. In April and October 1992, two independent environmental
+investigations were completed by Airco. In March 1993, WDOE and Airco agreed to a Model Toxics
+Control Act (MTCA) Agreed Order. The agreed order required that a site investigation be conducted
+requiring additional soil and ground water sampling. This latest site investigation, completed in July 1993,
+establishes Airco as a contributor to the contaminated ground water.
+ 
+Status (April 1995) : EPA operation of the ground water extraction/treatment system has proceeded
+smoothly and, with system enhancements added during an EPA removal action, pumping rates have
+increased to treat greater amounts of contaminated ground water and maintain discharge to the City of
+Vancouver publicly owned treatment works (POTW) within the POTW permit limit. A major ground water
+sampling event has been scheduled for late April 1995 under "high ground water" conditions. This activity
+begins ground water characterization efforts for other compounds as well as chromium and VOCs. Based
+on the results, another similar round of sampling may be conducted under "low ground water" conditions in
+late September 1995. An ongoing potentially responsible party search for others in the Hazel Dell area who
+may have caused or contributed to the ground water contamination will assist EPA in determining future
+investigative activities.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

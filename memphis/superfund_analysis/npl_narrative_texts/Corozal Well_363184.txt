@@ -1,0 +1,23 @@
+ OSWER/OSRTI   Washington, DC 20460  
+NATIONAL PRIORITIES LIST (NPL) 
+[The description of the site (release) is based on information available at the time the site was evaluated with the HRS.  The description may change as additional information is gathered on the sources and extent of contamination.]
+  
+For more information about the hazardous substances identified in this narrative summary, including general information regarding the effects of exposure to these substances on human health, please see the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR T oxFAQs can be found on the Internet at http://www.atsdr.cdc.gov/toxfaq html
+ or by telephone at 1-888-42-ATSDR or 1-888-422-8737.  
+***Final Site*** March 2012 
+COROZAL WELL  Corozal , Puerto Rico  
+  
+ 
+ Site Location: 
+The Corozal Well site, which consists of a ground water plume with no identified source(s) of contamination, is located in Barrio Palos Blancos, Coroz al, a rural community in interior north-central Puerto Rico. The site straddles the border between the municipalities of Corozal and Naranjito.  
+ Site History: 
+Ground water contamination in the Comunidad Santana well was discovered in November 2010, when Puerto Rico Aqueduct and Sewer Authority (PRASA) collected samples from non- PRASA system wells on behalf of Puerto Rico Department of Health (PRDOH). Samples collected from the Comunidad Santana well contained tetrachloroethene (PCE), a solvent used for many industrial purposes, at concentrations above the EPA’s Safe Drinking Water Act Maximum Contaminant Level (MCL). Due to the confirmed exceedance, PRDOH ordered the well to be closed and an alternate water source was provided. Additional samples collected  by the Puerto Rico Environmental Quality Board (PREQB) and the EPA confirm that there is PCE in the well. The PREQB surface water sampling also indicates the presence of PCE in the unnamed creek  adjacent to the well. Aqueous samples collected by the PREQB from the two closest known commercial/industrial facilities did not contain any PCE.   
+ Site Contamination/Contaminants: 
+PCE is present in ground water and surface water near the Comunidad Santana well. PCE is a solvent used as a degreaser and other industrial purposes. The PCE concentrations detected in the Comunidad Santana drinking water well exceeded the EPA’s Safe Drinking Water Act MCL  prior to the well closure. 
+ 
+ Potential Impacts on Surrounding Community/Environment : 
+The contamination currently affects the Comunidad Santana well (Public Water System ID [PWSID] # PR0724147), which is the sole source of drinking water for a rural community of more than 200 people. Other community supply wells are located within approximately one mile of the plume. Cu rrently, PCE has not been detected in these wells.   
+ Response Activities (to date): 
+The Puerto Rico Department of Health (PRDOH) ordered the well to be closed upon discovery of the contamination. The pump was removed from the well to avoid usage, while th e PRASA, the National Guard, and the EPA provided an alternate water source for the affected residents. In February -March 2011, the EPA installed a granular-activated- carbon (GAC) treatment system at the site, reinstalled the well pump, and began to pump t reated well water into the community water supply for distribution. The EPA is in the process of investigating possible source areas, but the specific source(s) of contamination has not yet been identified.  
+ Need for NPL Listing: 
+Other federal and state cleanup programs were evaluated, but are not viable at this time. The EPA received a letter of support for placing this site on the NPL from the Commonwealth of Puerto Rico. 

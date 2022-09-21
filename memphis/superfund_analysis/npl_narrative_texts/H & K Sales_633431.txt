@@ -1,0 +1,51 @@
+NPL Site Narrative for H & K Sales
+ 
+H & K SALES
+Belding, Michigan
+ 
+ 
+Conditions at Proposal (October 1995) : H&K Sales is an aircraft parts dealer located in Belding,
+Michigan. The H&K Sales site consists of several acres of land bounded by the Flat River, Bridge Street,
+and adjacent industrial buildings. The site includes a warehouse building constructed with a mainly
+concrete floor and foundation with brick and block walls and a metal roof. Storage space is estimated
+at about 30,000 square feet with about 20,000 square feet occupied exclusively by aircraft gauges and
+materials originating from the former Aircraft Components Inc. facility.
+ 
+After World War II the US Army sold aircraft components parts, including radioactive radioluminescent
+aircraft dials, to Aircraft Components Inc. of Benton Harbor, Michigan. Aircraft Components operated a
+mail order catalogue business selling Army surplus. The estate of the owners of Aircraft Components sold
+the property in the early 1990s to D&L Sales, who were interested in the warehouse building but not the
+Army surplus. D&L sold the aircraft parts to H&K Sales. H&K Sales transferred approximately 150 truck
+shipments of the radioactive parts to their Belding, Michigan warehouse over the period from November
+1993 to April 1994. In addition, wooden cases with labels indicating that they might contain unexploded
+ordnance were observed at the warehouse during an Agency for Toxic Substance and Disease Registry
+(ATSDR) investigation; however, the contents of the cases have not been verified.
+ 
+A preliminary radiation survey was conducted by the Michigan Department of Public Health (MDPH)
+Division of Radiological Health on October 3, 1994. A second supplemental radiation survey was
+conducted on October 21, 1994 by division staff with the assistance of US EPA Region 5. Gamma
+radiation levels measured in the warehouse ranged from background levels to 7 milliroentgens per hour.
+An estimated 3,000 to 6,000 radioluminous aircraft gauges are in storage at this site. A relatively extensive
+area of the warehouse presented gamma radiation levels in excess of 1 milliroentgen per hour. Surface
+contamination was measured as ranging from about 200 counts per minute to about 5,000 counts per
+minute at several locations. Radon levels measured in the building ranged from about 30 to 50 picocuries
+per liter, well above expected background levels. No individuals routinely work at this site.
+ 
+A preliminary health physics analysis of currently available data relating to the radioluminous gauges
+indicates that the likely exposure to individuals includes external exposure to gamma rays, internal
+exposure due to inhalation of radon gas, and potential internal exposure due to inhalation and/or ingestion
+of contaminated material in the form of dust or other fine particles. A Public Health Advisory was issued by
+the ATSDR on June 29, 1995. Because some radiological contaminants are easily removed from surfaces,
+ATSDR believes that this site poses a health hazard to on-site employees, future remediation workers,
+nearby residents, and any intruders that may enter the on-site structures.
+ 
+Status (June 1996) : In February 1996, EPA and the MDPH conducted a site inspection to revise
+the volume and cost estimates developed by the Army in May 1995. EPA is currently conducting an
+Engineering Evaluation/Cost Analysis. A public meeting to present the removal action plan is scheduled for
+late April or early May 1996.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

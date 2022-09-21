@@ -1,0 +1,54 @@
+NPL Site Narrative for Southern California
+Edison Co. (Visalia Poleyard)
+ 
+SOUTHERN CALIFORNIA EDISON CO. (VISALIA POLEYARD)
+Visalia, California
+ 
+ 
+Conditions at proposal (January 22, 1987) : Southern California Edison Co. (SCE) treated utility poles
+on a 20-acre site in Visalia, Tulare County, California, from the 1920s until 1980. The site is on the edge of
+town in a primarily agricultural area with some scattered industry and houses.
+ 
+Wood preservatives, including creosote and pentachorophenol (PCP), were used and stored on-site during
+the poleyard's operations. Leaking tanks and stored treated poles have contaminated ground water and
+soil with wood-treatment chemicals, as well as associated hexa-, hepta-, and octachlorodioxins and furans,
+according to analyses conducted by both the California Regional Water Quality Control Board (CRWQCB)
+and SCE.
+ 
+California Water Service Co. wells within 3 miles of the site supply drinking water to Visalia's 62,000
+residents. After sampling ground water and soil in May 1976, CRWQCB issued a Cleanup and Abatement
+Order requiring SCE to (1) abate discharge of treating fluids into soil, (2) contain contaminated soil and
+water on the property, (3) pump shallow ground water under the site before and during construction of an
+underground slurry wall around the site, (4) pump the lower confined aquifer to remove contamination, and
+(5) clean up contaminated shallow ground water off-site.
+ 
+In response to the order, SCE removed 2,300 cubic yards of grossly contaminated soil to an approved
+Class I hazardous waste disposal facility. The remaining soil was not sampled after the cleanup. In 1977, a
+60-foot-deep cement-bentonite slurry wall was constructed to slow lateral migration in the shallow aquifer.
+Currently, SCE is pumping the shallow wells, treating the water by carbon filtration, and discharging it into
+the city sewer system. SCE has been sampling monitoring wells, along with California Water Service Co.
+wells, on a quarterly basis. The results indicate that on-site monitoring wells contain up to 12 parts per
+million (ppm) PCP, and off-site monitoring wells contain up to 0.15 ppm PCP.
+ 
+Status (March 31, 1989) : The California Department of Health Services (CDHS) is overseeing SCE's
+investigations and cleanup activities at the site. In December 1987, SCE and CDHS signed an Enforceable
+Agreement requiring SCE to perform a remedial investigation/feasibility study (RI/FS) to determine the type
+and extent of contamination at the site and identify alternatives for remedial action. CDHS is reviewing
+SCE's draft RI/FS and risk assessment.
+ 
+SCE has upgraded its on-site ground water treatment system to include anthracite filtration in addition
+to carbon filtration. SCE now discharges the treated ground water directly to Mill Creek, a small tributary
+about two blocks from the site, under a National Pollutant Discharge Elimination System permit overseen
+by CRWQCB. Concern arose in mid-1987 when hepta- and octa-dioxins suddenly appeared and rose in
+the effluent from the on-site treatment system. CRWQCB oversaw measures to address this problem. The
+rising levels may have implied an increase of PCP leaving the soil and entering ground water, or may also
+simply have been due to filter overloading.
+ 
+Currently, monitoring wells on-site show relatively stable levels of PCP and creosote, generally ranging
+from not detectable to 1,500 parts per billion.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

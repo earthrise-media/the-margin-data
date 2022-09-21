@@ -1,0 +1,42 @@
+NPL Site Narrative for Jet Propulsion
+Laboratory (NASA)
+ 
+JET PROPULSION LABORATORY (NASA)
+Pasadena, California
+ 
+ 
+Conditions at Proposal (February 7, 1992) : The Jet Propulsion Laboratory (JPL) covers 176 acres at
+4800 Oak Grove Drive in Pasadena, Los Angeles County, California. The area is primarily residential with
+some light commercial operations. It is bordered on the east by the Arroyo Seco Dry Wash, on the west by
+a residential neighborhood, on the north by the San Gabriel Mountains, and on the south by an equestrian
+club and a Los Angeles County Fire Station. Approximately 120,800 people live within 4 miles of the site.
+ 
+The Army developed and operated JPL between 1945 and 1957; jurisdiction was transferred to the
+National Aeronautics and Space Administration (NASA) in 1958. The California Institute of Technology is
+under contract to NASA to conduct research and development at JPL in aeronautics, space technology,
+and space transportation. JPL's primary activities include exploration of the earth and solar system with
+automated spacecraft, and the design and operation of the Global Deep Space Tracking Network.
+ 
+Among the sources of hazardous substances at the site are numerous seepage pits, where liquid and solid
+wastes were reportedly disposed of; a "settling" chamber in the JPL storm drain system; contaminated
+soil excavated from part of the system; and an area where waste solvents were dumped into three holes.
+The general types of hazardous substances at JPL, now and in the past, include waste solvents such as
+tetrachloroethene, solid rocket fuel propellants, cooling tower chemicals, sulfuric acid, Freon, mercury, and
+chemical laboratory wastes.
+ 
+In 1990, contractors for JPL detected significantly elevated levels of carbon tetrachloride, trichloroethene,
+tetrachloroethene, and other volatile organic compounds (VOCs) in ground water both under and
+downgradient of the site. An estimated 68,000 people obtain drinking water from municipal wells within 4
+miles of the site. Four City of Pasadena wells were shut down during 1989-90 due to VOCs attributable to
+JPL. The city has installed a treatment system, and the wells were returned to operation in October 1990.
+In addition, two Lincoln Avenue Water Co. wells were shut down in 1987 due to VOCs attributable to JPL;
+these wells are still closed.
+ 
+Status (October 1992) : EPA and JPL have started to negotiate a Federal Facilities Agreement under
+CERCLA Section 120 covering future activities at the site.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

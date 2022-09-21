@@ -1,0 +1,63 @@
+NPL Site Narrative for Peninsula
+Boulevard Ground Water Plume
+ 
+PENINSULA BOULEVARD GROUND WATER PLUME
+Hewlett, New York
+ 
+ 
+Conditions at Proposal (March 8, 2004) : The Peninsula Boulevard Ground Water Plume site is the
+location of a ground water plume with no identified sources of contamination. The area under which the
+ground water plume lies is predominantly residential. The plume was discovered when New York State
+Department of Environmental Conservation (NYSDEC) conducted a Remedial Investigation (RI) of a
+dry-cleaning business in Hewlett, New York. The investigation results indicated that almost six parts per
+million (ppm) of tetrachloroethylene (PCE) are present in shallow ground water; however, the highest
+concentrations and majority of plume area are not located directly beneath the subject dry-cleaning facility.
+Therefore, NYSDEC concluded that there is not enough evidence to identify the subject facility as a source
+of contamination. There are numerous other current and former dry-cleaning facilities in Hewlett.
+ 
+The NYSDEC RI indicated that ground water flows from the main plume area to the northwest, in the
+direction of the Long Island Water Corporation (LIWC) Plant 5 Well Field. This cluster of 43 active wells
+(and numerous inactive wells) is located just northwest of the plume delineated by the RI. The active
+wells are all screened in the Jameco aquifer (i.e., aquifer of concern, as discussed below) at depths of
+approximately 150 feet, and contribute to the LIWC system through a common suction unit that prevents
+access to individual wells. LIWC considers the entire well field to be a single component of its blended
+system, which has 36 components (i.e., ground water wells) and serves a total population of 230,300
+people. The Plant 5 Well Field component serves almost 6,400 of those people.
+ 
+The people served by the LIWC Plant 5 Well Field are subject to contamination above health-based criteria
+before treatment, and the contaminants are attributable to the Peninsula Boulevard Ground Water Plume
+site. Since April 1991, the Plant 5 well water has been treated for PCE contamination by a packed tower
+aeration system (i.e., air strippers). PCE was detected in every quarterly raw water sample collected
+at the Plant 5 Well Field from 1999 through 2003, at concentrations ranging from 4.3 ppb to 14.4 ppb.
+Trichloroethylene (TCE) and cis-1,2-dichloroethylene (cis-1,2-DCE) were also detected in some samples,
+at individual concentrations ranging from 0.5 µg/L to 3.1 µg/L. The contaminants detected at the LIWC
+Plant 5 Well Field delineate the leading edge of the contaminated ground water plume.
+ 
+The Peninsula Boulevard Ground Water Plume site is underlain by the upper glacial (water-table) aquifer,
+Gardiners Clay, Jameco aquifer, Magothy aquifer, Raritan clay, Lloyd aquifer, and bedrock, in descending
+order. The aquifer of concern is the Jameco, which consists of the Pleistocene-age Jameco Gravel and
+is of local importance in the site vicinity. The upper glacial aquifer is no longer used for water supply in
+the site vicinity. The Gardiners Clay is not a continuous confining layer throughout the two-mile radius of
+the site, including the Plant 5 Well Field. The upper glacial aquifer directly overlies the Jameco aquifer
+north of the site, and the two units are both moderately to highly permeable with nearly identical hydraulic
+conductivities. Based on these considerations, the upper glacial and Jameco aquifers are hydraulically
+connected in the immediate vicinity of the ground water plume. The Jameco aquifer is also hydraulically
+connected to the underlying Magothy aquifer, the primary source of public drinking water in Nassau
+County. The Lloyd aquifer is separated from the Magothy by the intervening Raritan clay, which is thick
+and laterally extensive. The bedrock surface underlying the Lloyd aquifer forms the base of Long Island's
+ground-water reservoir.
+ 
+The results of the NYSDEC investigation also indicated that PCE is present in a stream located in the
+immediate vicinity of the contaminated ground water plume. The stream flows north from the main plume
+area and across the grounds of Woodmere Junior High School North, about 100 feet from the building.
+Access to the stream is restricted by a fence; EPA visually inspected the fence as recently as April 2004.
+ 
+This information shows that the site is eligible for inclusion on the NPL.
+ 
+Status (July 2004) : EPA is considering various alternatives for this site.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

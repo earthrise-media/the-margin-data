@@ -1,0 +1,57 @@
+NPL Site Narrative for Moses Lake
+Wellfield Contamination
+ 
+MOSES LAKE WELLFIELD CONTAMINATION
+Moses Lake, Washington
+ 
+ 
+Conditions at Proposal (July 29, 1991) : The City of Moses Lake is in Grant County in central
+Washington. On February 16, 1988, the Washington State Department of Health (WDOH) sampled eight
+Moses Lake municipal wells as part of a routine sampling effort. The samples were analyzed for volatile
+organic compounds (VOCs). Two of the wells contained trichloroethene (TCE) above EPA's Maximum
+Contaminant Level established under the Safe Drinking Water Act. On April 4, 1988, and May 23, 1988,
+WDOH resampled the municipal wells and confirmed the presence of TCE at high concentrations (up to
+9.1 µg/L). In mid-December, the Washington Department of Ecology (WDOE), in an independent study in
+the Moses Lake area, detected levels up to 12 µg/L in some of the municipal wells. The two contaminated
+wells are part of a blended system that provides drinking water to 5,000 people. Other area residents
+depend on private wells.
+ 
+WDOH and WDOE sampling only roughly defined the areal and vertical extent of TCE contamination.
+Based on these preliminary results, EPA conducted a study to identify the potential source or sources of
+TCE ground water contamination in the Moses Lake area. During a review of nearby Larson Air Force
+Base (LAFB) maps, discussions with former LAFB employees, and meetings with City and Port of Moses
+Lake personnel, EPA identified a number of potential sources, including but not limited to, a variety of
+former LAFB operations and disposal facilities, the City of Moses Lake municipal waste treatment plant,
+an infiltration area for the LAFB storm sewer system, and a burn pit currently used by the Big Bend
+Community College Fire Training School.
+ 
+To identify potential sources, EPA performed the following activities: (1) inventoried many businesses near
+LAFB and surveyed solvent usage; (2) collected and reviewed historical data regarding the two primary
+operators at LAFB, the Boeing Corp. and the Army Corps of Engineers (COE); (3) analyzed historical
+aerial photographs through the EPA Environmental Monitoring Systems Laboratory; (4) collected 92 soil
+gas samples from the shallow subsurface along a series of transects crossing the study area (including
+the potential sources previously identified); (5) collected 62 ground water samples from a number of wells
+throughout the study area and analyzed for VOCs, selected ions, and other water quality parameters; and
+(6) collected geophysical data of the subsurface in the area of one municipal well.
+ 
+EPA's study of potential sources indicates that the area has a long history of operations that could have
+generated waste TCE solvents, but no specific source area was identified by the techniques employed.
+The complexity of the local hydrogeology greatly complicated attempts to correlate the available ground
+water sampling data to specific portions of the several aquifers underlying the site. In addition, the
+information generated during the soil gas and geophysical studies was limited because ground water in the
+Moses Lake area is so deep -- several hundred feet in some cases.
+ 
+Status (October 1992) : Various government agencies are taking an active role in addressing problems
+related to the contaminated ground water at the site, including: (1) EPA is gathering information to support
+the search for potentially responsible parties (PRPs) and is coordinating community relations activities, (2)
+COE is conducting an investigation near the former LAFB to identify possible sources of contamination, (3)
+the City of Moses Lake is managing the water system and modifying municipal wells to provide residents
+with drinking water that meets Federal standards, and (4) WDOH is pursuing enforcement actions against
+a private water supplier whose wells showed TCE levels above the Federal standard during recent
+sampling.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

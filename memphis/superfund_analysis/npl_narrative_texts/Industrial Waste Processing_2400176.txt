@@ -1,0 +1,43 @@
+NPL Site Narrative for Industrial Waste
+Processing
+ 
+INDUSTRIAL WASTE PROCESSING
+Fresno, California
+ 
+ 
+Conditions at proposal (October 26, 1989) : Industrial Waste Processing (IWP) occupies approximately
+0.5 acre at 7140 North Harrison Street in Fresno, Fresno County, California. The area is primarily
+residential, with some light industrial commercial operations. During 1957-81, IWP principally recycled
+solvents and lead solder. During 1977-83, IWP operated as a distributor for Ashland Oil. Since 1983, the
+site has been used solely for storage of chemicals and equipment.
+ 
+During an inspection in June 1988, EPA observed piles of waste lead solder flux and leaking asbestos
+bags stored on bare ground, and glycols and chlorinated solvents stored in open and leaking drums.
+EPA analysis of on-site soil identified numerous compounds, including lead, trichloroethylene (TCE),
+perchloroethylene (PCE), dichloroethylene (DCE), 1,1,2,2-tetrachloroethane (PCA), and 1,1,1-
+trichloroethane (TCA).
+ 
+EPA has designated Fresno County Aquifer, which underlies the Fresno area, a sole source aquifer
+under the Safe Drinking Water Act. Three municipal water systems have a total of 83 supply wells within 3
+miles of IWP that draw from the Fresno County Aquifer. As of November 1988, at least 13 of these wells
+contained organic solvents, including TCE, PCE, and DCE, according to EPA tests. In May 1988, Pinedale
+County Water District Well #3 was closed due to contamination by organic solvents. The well, which is
+the closest municipal well to IWP (within 0.25 mile directly downgradient), had 390 parts per billion, the
+highest concentration of TCE detected to date. One active well within 2,000 feet of IWP supplies water
+to the Nelson Elementary School. Municipal supply wells within 3 miles of IWP are part of a distribution
+system that serves over 300,000 people in the Fresno area.
+ 
+In August 1988, EPA used CERCLA emergency funds to remove all surface wastes at the site and the top
+2 inches of soil. The materials were transported to a hazardous waste facility regulated under Subtitle C of
+the Resource Conservation and Recovery Act.
+ 
+Status (August 30, 1990) : The California Department of Health Services (DHS) has listed the site on the
+California State Bond Expenditure Plan. In May 1990, DHS completed a sampling plan calling for collecting
+on-site boring samples and installing three monitoring wells upgradient of the site and three downgradient.
+Work is scheduled to start in the fall of 1990.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

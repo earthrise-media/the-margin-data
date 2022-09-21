@@ -1,0 +1,48 @@
+NPL Site Narrative for Idaho National
+Engineering Laboratory (USDOE)
+ 
+IDAHO NATIONAL ENGINEERING LABORATORY (USDOE)
+Idaho Falls, Idaho
+ 
+ 
+Conditions at proposal (July 14, 1989) : The Idaho National Engineering Laboratory (INEL), now owned
+by the U.S. Department of Energy (USDOE), covers 890 square miles in southeast Idaho near Idaho Falls.
+INEL is in parts of Bingham, Butte, Clark, Jefferson, and Bonneville Counties.
+ 
+The Atomic Energy Commission, predecessor to USDOE, set up the National Reactor Testing Station
+on the grounds in 1949 to build, test, and operate various nuclear reactors, fuel processing plants, and
+support facilities. Earlier, parts of the 890 square miles had been used by the Department of Defense. In
+1974, the facility assumed its present name to reflect the broad scope of engineering activities it conducts.
+ 
+INEL consists of a number of major facilities, including these three: Test Reactor Area (TRA), Central
+Facilities Area (CFA), and Idaho Chemical Processing Plant (CPP). Most are operated by one of five
+contractors. The prime operating contractor is EG&G Idaho, Inc. All three facilities contribute contaminants
+to the Snake River Plain Aquifer and draw water from the aquifer. Approximately 17,300 tons of hazardous
+materials were deposited at TRA via a 560-foot injection well extending 100 feet into the Snake River Plain
+Aquifer and also into numerous unlined ponds and an earthen ditch. The materials included chromium-
+contaminated cooling tower blowdown water, waste solvents, sulfuric acid, radionuclides, and laboratory
+wastes.
+ 
+Hexavalent chromium is present in on-site monitoring and drinking water wells on TRA and CFA, according
+to 1985 and 1986 reports of the U.S. Geological Survey (USGS). The Snake River Plain Aquifer is the
+source of all water used at INEL and is an important water resource in southeastern Idaho. Over 3,000
+people draw drinking water from wells within 3 miles of hazardous substances at INEL.
+ 
+Recent testing has identified contamination in additional areas of INEL. Tests conducted in 1987 by
+INEL and USGS at the Radioactive Waste Management Complex indicate that carbon tetrachloride and
+trichloroethylene (TCE) have migrated from where they were buried to the Snake River Plain Aquifer
+and that transuranic radionuclides have migrated to ground water. In December 1988, TCE was found in
+drinking water wells in Test Area North. Workers in the area are now being supplied with bottled water.
+USDOE has identified 300 areas that require additional investigation at INEL.
+ 
+In July 1987, EPA and INEL signed a Consent Order and Compliance Agreement under Section 3008(h) of
+the Resource Conservation and Recovery Act calling for investigation and cleanup.
+ 
+Status (November 21, 1989) : Negotiations are underway for an Interagency Agreement under CERCLA
+Section 120 for oversight of activities at INEL.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

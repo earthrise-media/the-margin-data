@@ -1,0 +1,62 @@
+NPL Site Narrative for Mohonk Road
+Industrial Plant
+ 
+MOHONK ROAD INDUSTRIAL PLANT
+High Falls, New York
+ 
+ 
+Conditions at Proposal (September 26, 1999) : The Mohonk Road Industrial Plant site in High Falls,
+Ulster County, New York is apparently responsible for the contamination of more than 60 private wells.
+Industrial activity at the site began when Varifab owned and operated the facility from the early 1960s until
+1969. The facility reportedly used TCE in their processes of assembling and finishing metal parts for cash
+registers. Consolidated Diesel bought the company and property in 1969 and operated the facility until
+1972. Another company, Ballards, performed "wet" spray painting of metal parts at the facility sometime
+between 1972 and 1975. Gelles Associates purchased the facility in 1976 and began manufacturing plastic
+and metal store display fixtures. Gelles' coating process generated "waste lacquer" until 1991, when the
+company began using electrostatic powder coating. According to a May 1991 Notification of Regulated
+Waste Activity, the company generated more than 1,000 kilograms per month of hazardous waste listed as
+F002 (spent halogenated solvents such as PCE; TCE; and 1,1,1-TCA) and F003 (spent non-halogenated
+solvents).
+ 
+Three sources are identified on site. Source 1 was a 1,000-gallon underground tank that was located
+approximately 100 feet north of the on-site building. Tank sludge samples collected by New York State
+Department of Environmental Conservation (NYSDEC) contained up to 26% of 1,1,1-TCA, 1.8% of 1,1-
+DCA, and 0.51% of chloroform. Several base/neutral/acid extractable (BNA) compounds, the pesticides
+endrin and alpha-chlordane, and several heavy metals were also detected in the sludge. The tank, its
+contents, and approximately 25 cubic yards of stained soil associated with it were removed from the site
+beginning in September 1997. The activity is not an HRS qualifying removal because of the continued
+presence of an associated ground water plume. Source 2 is contaminated soil near Source 1. Soil-gas and
+soil samples collected near the tank showed concentrations of 1,1,1-TCA ranging up to 4,600 µg/kg. Other
+chlorinated VOCs, including 1,1-DCA; 1,1-DCE; and TCE, were also detected. Source 3 is contaminated
+soil near the west side of the building. During the site reconnaissance in September 1996, NYSDEC
+pointed out the west and northwest sides of the building where drums were formerly stored, the open area
+off the northwest end of the building, and the edge of the driveway at the west end of the building as areas
+where disposal was suspected to have occurred. NYSDEC investigated the area west of the building as
+part of the soil-gas and soil sampling activities conducted in October 1996. Soil-gas samples collected
+from the grass- and gravel-covered area showed detectable levels of 1,1,1-TCA and several other VOCs,
+including tetrachloroethene (PCE). NYSDEC collected more than 40 soil samples at depths ranging from
+1 to 13 feet below grade in the area west of the building. High concentrations of PCE and cis-1,2-DCE
+were detected at one boring location. The concentrations of 1,1,1-TCA ranged up to 660 µg/kg. Other
+chlorinated VOCs, including 1,1-DCE; 1,1-DCA; TCE; and 1,2-DCA, as well as the BNA compounds 2-
+methylnaphthalene and phenanthrene, were detected in this area.
+ 
+Between June 1994 and October 1995, NYSDEC provided granular activated carbon (GAC) filtration
+systems to 64 homes and businesses located downgradient of the site where VOC levels exceeded the
+New York State Department of Health (NYSDOH) drinking water standard. Semi-annual sampling between
+November 1994 and November 1997 confirmed the presence of chlorinated VOCs in the private wells,
+and showed a maximum 1,1,1-TCA concentration of 1,400 parts per billion (ppb). Samples from on-site
+monitoring wells located near the 1,000-gallon underground tank have shown concentrations of 1,1,1-TCA
+up to 28,000 µg/L at the till/bedrock interface and up to 3,900 µg/L in the bedrock.
+ 
+Almost all domestic wells in the site vicinity withdraw water from the Shawangunk Formation. The
+estimated total population served by ground water wells within 4 miles of the site is 6,234. An observed
+release to ground water is documented by validated data for samples collected from private wells in May
+1997. Contamination is documented for 57 downgradient wells serving a total of 208 people.
+ 
+Status (January 1999) : EPA is considering various alternatives for this site.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

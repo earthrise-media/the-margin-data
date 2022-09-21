@@ -1,0 +1,44 @@
+NPL Site Narrative for Enterprise Avenue
+ 
+ENTERPRISE AVENUE
+Philadelphia, Pennsylvania
+ 
+ 
+Conditions at proposal (December 30, 1982) : The Enterprise Avenue Site covers about 57 acres
+along the Delaware River in an industrial area of Philadelphia, Pennsylvania. From 1971 to mid-1976,
+the city operated the site as a landfill. Several waste-handling firms buried at least 10,000 drums of
+hazardous wastes there without the city's permission. During exploratory excavations in January 1979,
+the Philadelphia Water Department discovered approximately 1,700 drums that contained or had once
+contained wastes such as paint sludges, solvents, oils, resins, metal-finishing waste, and solid inorganic
+wastes. In 1982, the city started cleanup actions, including removal of drums and soil to a landfill permitted
+under the Resource Conservation and Recovery Act (RCRA). A total of 32,800 cubic yards of excavated
+soil was identified as contaminated with organic chemicals (toluene, benzene, ethylbenzene, or organic
+halogenated compounds). In October 1982, after spending $7 million cleaning up the site, the city ran out
+of money. Left on-site were approximately 20,000 tons of contaminated soil in two piles that had been
+partially covered.
+ 
+Status (September 8, 1983) : EPA and the State are considering various alternatives for the site.
+ 
+Status (March 7, 1986) : In 1984, EPA and the city started to complete the remedial actions. All of the
+stockpiled soils were analyzed for a variety of metals and organic chemicals. Soils were divided into 100-
+cubic-yard lots. A Key Indicator Analysis was used to determine which lots would be disposed of in an
+off-site facility. If any one indicator exceeded action levels, the entire soil lot was deemed contaminated
+and sent off-site. Action levels for inorganics were selected based upon the Extraction Procedure Toxicity
+Test used to determine if a waste is hazardous under RCRA. Organic action levels were established
+using similar methodology and are consistent with levels that would be used today. After removal of
+contaminated soils from the site, the area was sampled on a grid pattern to ensure that all soils not passing
+the test had been transported off-site. The results indicated that the remedial objectives were attained, and
+that all soils considered contaminated were removed. The site was then capped, seeded, and fenced.
+ 
+This site is being deleted from the NPL because EPA, in consultation with the Commonwealth of
+Pennsylvania, has determined that all appropriate Superfund-financed response under CERCLA has
+been implemented, and that no further response by responsible parties is appropriate. The Pennsylvania
+Department of Environmental Resources has agreed to operate and maintain the site. The department has
+also developed and implemented an operation and maintenance plan for the cap and will monitor ground
+water to ensure that water quality remains at background levels.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

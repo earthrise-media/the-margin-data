@@ -1,0 +1,44 @@
+NPL Site Narrative for Intel Corp.
+(Mountain View Plant)
+ 
+INTEL CORP. (MOUNTAIN VIEW PLANT)
+Mountain View, California
+ 
+ 
+Conditions at proposal (October 15, 1984) : Intel Corp. manufactured semiconductors at a plant in
+Mountain View, Santa Clara County, California, between 1968 and 1981. At that time, the facility occupied
+2 acres and was surrounded by residential areas, office buildings, and other semiconductor-manufacturing
+plants.
+ 
+Monitoring wells on the site are contaminated with trichloroethylene, xylene, vinyl chloride, and 1,1- and
+trans-1,2-dichloroethylene, according to analyses conducted by a consultant to Intel. Contamination is
+believed to have resulted from leaking underground solvent tanks. About 270,000 people depend on wells
+within 3 miles of the site as a source of drinking water.
+ 
+Since early 1982, Intel has been pumping ground water and treating it by carbon adsorption. The company
+intends to implement additional cleanup activities, including the installation of a system to pump and treat
+contaminated ground water and excavation of soil beneath the underground storage tanks, which were
+previously removed. The company is working with the California Regional Water Quality Control Board
+(CRWQCB) to determine the full extent of the contamination.
+ 
+This is one of 19 sites in the South Bay Area of San Francisco. Facilities at these sites have used a variety
+of toxic chemicals, primarily chlorinated organic solvents, which contaminate a common ground water
+basin. Although these sites are listed separately, EPA intends to apply an area-wide approach to the
+problem as well as take specific action as necessary.
+ 
+Status (June 10, 1986) : Intel has removed approximately 4,600 cubic yards of contaminated soil and has
+installed four wells to pump and treat contaminated ground water.
+ 
+CRWQCB has issued Waste Discharge Requirements to the company. The requirements are the board's
+legal mechanism for regulating activities at facilities under its jurisdiction.
+ 
+On August 15, 1985, EPA issued a CERCLA Administrative Order on Consent to Intel Corp.'s Mountain
+View Plant, as well as to Fairchild Camera's and Raytheon Corp.'s Mountain View Plants. The order calls
+for the three companies to conduct a joint remedial investigation/feasibility study of the area to determine
+the type and extent of contamination and identify alternatives for remedial action.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

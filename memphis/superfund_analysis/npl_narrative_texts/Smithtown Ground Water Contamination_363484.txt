@@ -1,0 +1,63 @@
+NPL Site Narrative for Smithtown Ground
+Water Contamination
+ 
+SMITHTOWN GROUND WATER CONTAMINATION
+Smithtown, New York
+ 
+ 
+Conditions at Proposal (September 29, 1998) : The Smithtown Ground Water Contamination site is
+a contaminated ground water plume located in the Town of Smithtown, Suffolk County, New York. The
+area is encompassed by the Villages of Nissequogue and Head of the Harbor, and by the Hamlet of St.
+James. Homes in this area use private wells for potable water supply and septic systems for sanitary waste
+water disposal. At this time, the area affected by the contaminated plume is not serviced by a public water
+supply. The site is situated south of the Stony Brook Harbor and east of the Nissequogue River.
+ 
+On October 9, 1997, the U.S. Environmental Protection Agency (EPA) received a written request from
+the New York State Department of Environmental Conservation (NYSDEC) requesting assistance in
+funding alternative water supplies for residences affected by contaminated ground water. Attached to this
+request was a private well sampling survey prepared by the Suffolk County Department of Health Services
+(SCDHS), which presented drinking water survey results for 34 private wells in the area. Analytical data
+from this survey indicated that several wells were contaminated with volatile organic compounds (VOCs),
+primarily tetrachloroethylene (PCE).
+ 
+Throughout 1997 and 1998, the SCDHS collected samples from approximately 150 homes throughout
+the Villages of Head of the Harbor and Nissequogue, and the Hamlet of St. James. Analytical results from
+these data indicated that 23 residences were contaminated with PCE at concentrations exceeding the
+State and Federal maximum contaminant level (MCL) of 5 parts per billion (ppb). Four of these residences
+had PCE concentrations exceeding EPA's Removal Action Level (RAL) of 70 ppb.
+ 
+SCDHS has investigated several current and former commercial/industrial facilities (located east of the
+site) in the area in order to identify sources of the contaminated ground water plume. These investigations
+included the installation and subsequent sampling of test wells downgradient of these facilities. Based on a
+review of analytical data from this sampling, the source or sources of the ground water contamination have
+not been determined.
+ 
+An observed release of PCE to ground water is documented by the chemical analyses of ground water
+samples collected from private drinking water wells. In April 1998, EPA sampled 295 homes in the area in
+an effort to determine the extent of PCE contamination. Samples were analyzed according to EPA Method
+524.2 for specific VOCs. Analytical results from this sampling event indicated the presence of PCE in 33
+residential wells at concentrations above the MCL. The RAL for PCE was exceeded in six of these wells.
+Levels of PCE below the MCL (i.e., 1-5 ppb) were detected throughout the study. In addition to PCE, low
+levels of other VOCs, including breakdown products of PCE, were detected in private wells sampled by
+EPA and SCDHS. All of these wells are screened in the upper glacial or Magothy aquifers, which are
+interconnected and evaluated as the aquifer of concern.
+ 
+As a result of the analytical results generated during the April 1998 sampling event, EPA began the
+delivery of bottled water to four of the six residences contaminated above the RAL with PCE. The other
+two residences had already had installed granular activated carbon (GAC) treatment systems. In June
+1998, EPA expanded the delivery of bottled water to homes where the MCL for PCE or its breakdown
+products was exceeded and whose residents were interested in receiving bottled water. On July 23, 1998,
+an EPA Action Memorandum was signed, authorizing Removal Action activities to be conducted at the site:
+For homes where the MCL is exceeded and where public water is available, EPA will provide the service
+connection to the public water supply. For homes where the MCL is exceeded and public water is not
+available, EPA will provide a GAC treatment system. Bottled water delivery will continue until these actions
+are completed.
+ 
+Status (January 1999) : As part of a response action, EPA has installed two GAC systems and installed
+ten service connections where MCLs are exceeded.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

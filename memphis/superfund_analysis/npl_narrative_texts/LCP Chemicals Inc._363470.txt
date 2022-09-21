@@ -1,0 +1,58 @@
+NPL Site Narrative for LCP Chemicals Inc.
+ 
+LCP CHEMICALS INC.
+Linden, New Jersey
+ 
+ 
+Conditions at Proposal (September 1997) : The LCP Chemicals Inc (LCP) site is located in an industrial
+area on the Tremley Point Peninsula adjacent to Arthur Kill, in Linden, Union County, New Jersey. The
+site is bordered by South Branch Creek to the east, the General Aniline and Film Corporation (GAF) to the
+north, and Northville Industries, BP Corporation, and Mobil to the northeast, south and west, respectively.
+ 
+LCP purchased the 26-acre chlorine production facility in 1972 from GAF, which had owned the facility
+since 1942. From 1972 to 1982, LCP utilized a mercury cell electrolysis process to produce chlorine,
+sodium hydroxide, hydrochloric acid (HCL), and anhydrous HCL. The production process involved the
+electrolysis of a sodium chloride (brine) solution in the presence of metallic mercury. The residual mercury-
+sodium solution was then used to hydrolyze water forming sodium hydroxide and hydrogen gas. The
+metallic mercury was partially recovered and recycled in a brine purification process. The remaining
+mercury-tainted sludge was placed into the brine sludge lagoon (BSL), which received up to 20 tons per
+day of both brine sludge and wastewater treatment sludge.
+ 
+Supernatant overflows from the BSL to South Branch Creek were observed by the New Jersey Department
+of Environmental Protection (NJDEP) on October 30, 1972 and February 7, 1974. The overflow locations,
+quantities, and nature of LCP's response are unknown. In June 1975, a brine recycle pump failed and a
+breach in the BSL occurred. As a result, an undetermined quantity of brine entered South Branch Creek
+for an estimated period of nine hours. On August 15, 1979, a sodium chloride blockage occurred in the
+facilities' east saturator, causing sodium chloride brine contaminated with mercury to overflow the top of the
+saturator. Because the surge of flow exceeded the surge capacity of the wastewater system, an estimated
+10,000 to 20,000 gallons of the brine flowed into South Branch Creek. Chemical analysis of a sample
+collected from the spill indicated mercury concentrations to be 8.6 parts per million in the wastestream.
+ 
+The generation of brine ceased at the site in March 1982. Closure and post closure plans for the lagoon
+were submitted in July 1982 and were approved by the NJDEP in 1983. As part of its closure, the BSL was
+dewatered, compacted, and capped with a two-foot layer of clay overlain by six inches of drainage media
+and six inches of soil capable of supporting vegetative cover. The closure of the lagoon was completed in
+1984.
+ 
+On December 14, 1994, the U.S. Environmental Protection Agency (EPA) conducted an on-site
+reconnaissance at the LCP site. During this reconnaissance it was noted that all site storage/transfer
+activities had ceased and that all of the mercury cells and other production equipment had been removed
+from the site.
+ 
+A subsequent EPA sampling event was conducted at the LCP site on January 11, 1995. As part of this
+sampling event, three surficial soil samples, 10 surface water and eight sediment samples were collected.
+Analysis of the soil samples indicated the presence of mercury in the attribution samples at greater
+than three times the level detected in the background sample. Analysis of the surface water/sediment
+samples documented an observed release of mercury from the site to South Branch Creek. In addition,
+the analytical results of the surface water/sediment samples identified a zone of actual contamination that
+contains 0.45 mile of wetlands frontage and a state designated area for the maintenance and protection
+of aquatic life. All of the analytical data from this sampling event were analyzed and validated through the
+EPA Contract Laboratory Program.
+ 
+Status (July 1998) : EPA is considering various alternatives for the site.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.

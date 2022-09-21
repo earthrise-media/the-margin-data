@@ -1,0 +1,61 @@
+NPL Site Narrative for Computer Circuits
+ 
+COMPUTER CIRCUITS
+Hauppauge, New York
+ 
+ 
+Conditions at Proposal (July 1998) : Computer Circuits is an inactive facility located on a 1.7-acre lot
+in an industrial/commercial area of Hauppauge, Suffolk County, New York. It is bordered by Marcus
+Boulevard to the west and other commercial businesses to the north, south, and east. The property is
+occupied by a one-story building that is located near the center of the site. Prior to 1969, the property was
+vacant. From 1969 to the present, the property has been owned by MCS Realty, who has been leasing the
+property to various companies. From 1969 to 1977 Computer Circuits occupied the entire property. Four
+companies have occupied the property since Computer Circuits vacated it. These include a trade school
+(1977 to 1980), NAV-TEC, an assembler of electronic components (1980 to 1983), and TYMSHARE, a tax
+form preparation company (1983 to 1989). The site is currently occupied by Algorex Power and Control
+Electronics, Incorporated.
+ 
+Computer Circuits was a manufacturer of printed circuit boards for both military and commercial
+applications. Various chemicals were used in the manufacturing process including copper sulfate, nickel,
+sulfuric acid, hydrochloric acid, lead fluoroborate, fluorides, copper, trichloroethylene, photography
+chemicals, gold cyanate, ammonia, lead, nitric acid, and tin. Waste liquids from the manufacturing
+process were discharged to five cesspools located to the southeast of the building. These cesspools were
+subsequently disposal. In 1975 Computer Circuits applied for and was issued State Pollution Discharge
+Elimination System (SPDES) Permit No. 0075485, Permit Reference No. 47-0384 from the New York State
+Department of Environmental Conversation (NYSDEC). This permit, which was effective from April 1975
+to April 1977, allowed Computer Circuits to discharge effluent containing copper, iron, nickel, lead, silver,
+and phenol to outfall No. 001, which led to the cesspool system. On numerous occasions between 1976
+and 1977, the Suffolk County Department of Environmental Control (SCDOEC) collected samples from the
+cesspools, and found that copper and lead were consistently detected at levels above the SPDES permit
+limits. Computer Circuits has an inspection history detailing poor housekeeping practices, and numerous
+inspections conducted by the SCDOEC indicated repeated violations. An inspection conducted in 1976
+revealed that the site was littered with trash, broken barrels, and spilled piles of chemicals and blue/green
+colored sludges.
+ 
+In 1989 an Order on Consent Investigation Report of Computer Circuits was conducted on behalf of
+MCS Realty. During the investigation, three monitoring wells (MW's) were installed at one upgradient
+and two downgradient locations. In 1996, an EPA contractor conducted a Hazard Ranking System
+sampling investigation of the site. Fourteen subsurface soil samples were collected from the cesspool
+areas and background locations on the property. Chemical analysis of the samples indicated the presence
+of volatile organic compounds and inorganic constituents at levels significantly above the background
+levels established for the site. In addition, three monitoring wells were installed on the site property at
+one upgradient and two downgradient locations. Ground water samples were collected from the three
+monitoring wells installed (MW 4, MW 5, and MW 6) and two of the existing monitoring wells (MW 2 and
+MW 3). It should be noted that there is a discrepancy in the sampling trip report. MW 6 is identified as an
+upgradient monitoring well, however, a review of historical information indicated that another cesspool
+existed on the site in the area where MW 6 is located, therefore changing its status to a downgradient
+monitoring well location. Chemical analysis of the ground water samples indicated the presence of copper
+at levels significantly above the background levels established for the site.
+ 
+The Computer Circuits site overlies an interconnected aquifer system consisting of the Upper Glacial
+Aquifer and the Magothy Formation. Within four miles of the site all residents obtain their drinking water
+from potable wells with 60 municipal wells located within four miles of the site. The site is located over a
+New York State designated Wellhead Protection Area.
+ 
+Status (May 1999) : EPA is considering various alternatives for the site.
+ 
+For more information about the hazardous substances identified in this narrative summary, including
+general information regarding the effects of exposure to these substances on human health, please see
+the Agency for Toxic Substances and Disease Registry (ATSDR) ToxFAQs. ATSDR ToxFAQs can be
+found on the Internet at ATSDR - ToxFAQs   (http://www.atsdr.cdc.gov/toxfaqs/index.asp) or by telephone
+at 1-888-42-ATSDR or 1-888-422-8737.
